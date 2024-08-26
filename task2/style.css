@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 10%;
+    height: 80vh;
+    width: 80vw;
+    background-color: aquamarine;
+}
+
+img{
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    transition-duration: 0.4s;
+}
